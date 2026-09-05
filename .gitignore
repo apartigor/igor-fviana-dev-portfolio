@@ -1,0 +1,13 @@
+# dependências e build
+node_modules/
+dist/
+.vite/
+
+# plataformas
+.vercel
+.netlify
+
+# sistema / editor
+.DS_Store
+Thumbs.db
+*.local
